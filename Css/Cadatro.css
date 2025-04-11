@@ -36,7 +36,7 @@ header {
     position: absolute;
     left: 10px;
     transition: 0.5s;
-    transform: rotate(-135deg); /* Validação de CSS da erro, mas queremos manter esta rotação na imagem, não na animação */
+    rotate: -135deg; 
 }
 
 /* Estilos para o segundo botão de retorno */

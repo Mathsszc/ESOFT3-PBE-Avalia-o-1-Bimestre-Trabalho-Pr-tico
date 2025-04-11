@@ -1,12 +1,12 @@
 /* Estilos globais para o corpo da página */
+
+
 html {
     height: 100%;
 }
-
 body {
     margin: 0; /* Remove a margem padrão */
     padding: 0; /* Remove o padding padrão */
-    height: 100%;
     background: url(https://loreandradee.github.io/ESOFT3-PBE-Avalia-o-1-Bimestre-Trabalho-Pr-tico/image/areia.jpg); /* Define a imagem de fundo */
     background-size: auto; /* Define o tamanho do fundo */
     display: flex; /* Define o layout flexível */

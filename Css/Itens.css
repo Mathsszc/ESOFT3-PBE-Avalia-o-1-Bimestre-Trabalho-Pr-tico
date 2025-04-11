@@ -7,6 +7,7 @@ body {
     display: flex; /* Define o layout flexível */
     flex-direction: column; /* Define a direção do layout flexível */
     align-items: center; /* Centraliza os itens horizontalmente */
+    justify-content: space-between;
 }
 
 /* Estilos para o cabeçalho */

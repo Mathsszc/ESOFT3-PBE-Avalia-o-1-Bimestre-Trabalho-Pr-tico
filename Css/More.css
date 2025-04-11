@@ -59,9 +59,6 @@ main {
 /* Estilos para o rodapé */
 footer {
     background-color: brown; /* Define a cor de fundo */
-    position: relative; /* Define a posição relativa */
-    bottom: 0px; /* Define a posição inferior */
-    width: 100%; /* Define a largura */
 }
 
 /* Estilos para os títulos dentro do conteúdo principal */

@@ -1,4 +1,8 @@
 /* Estilos globais para o corpo da página */
+html {
+    height: 100%;
+}
+
 body {
     margin: 0; /* Remove a margem padrão */
     padding: 0; /* Remove o padding padrão */
@@ -9,6 +13,7 @@ body {
     align-items: center; /* Centraliza os itens horizontalmente */
     justify-content: center; /* Centraliza os itens verticalmente */
     justify-content: space-between;
+    height: 100%;
 }
 
 /* Estilos para o cabeçalho */

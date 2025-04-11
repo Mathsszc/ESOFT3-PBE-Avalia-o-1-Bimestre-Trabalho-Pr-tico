@@ -14,8 +14,3 @@ footer {
     font-family: 'Font-Minecraft'; /* Nome da fonte */
     src: url('https://loreandradee.github.io/ESOFT3-PBE-Avalia-o-1-Bimestre-Trabalho-Pr-tico/font/Font-Minecraft.otf') format('opentype'); /* Caminho para o arquivo da fonte e seu formato */
 }
-html, body {
-    height: 100%;
-    padding: 0;
-    margin: 0;
-}

@@ -8,6 +8,7 @@ body {
     flex-direction: column; /* Define a direção do layout flexível */
     align-items: center; /* Centraliza os itens horizontalmente */
     justify-content: center; /* Centraliza os itens verticalmente */
+    justify-content: space-between;
 }
 
 /* Estilos para o cabeçalho */

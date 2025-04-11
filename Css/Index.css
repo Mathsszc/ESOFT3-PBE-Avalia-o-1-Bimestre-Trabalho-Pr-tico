@@ -139,6 +139,10 @@ header div {
     padding: 100px; /* Define o padding */
 }
 
+iframe {
+    border: none;
+}
+
 /* Estilos responsivos para telas menores */
 @media (max-width: 768px) {
     iframe {

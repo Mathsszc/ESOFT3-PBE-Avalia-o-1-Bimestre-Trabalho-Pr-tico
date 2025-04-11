@@ -8,6 +8,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    justify-content: space-between;
 }
 
 /* Estilos para o cabeçalho */

@@ -181,7 +181,8 @@ footer {
         height: 20%; /* Define a altura */
     }
 
-    main {
-        width: 100%; /* Define a largura */
+    footer {
+    padding:0;
     }
+
 }

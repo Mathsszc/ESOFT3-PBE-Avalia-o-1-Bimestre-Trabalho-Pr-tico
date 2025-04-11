@@ -2,7 +2,7 @@
 /* Estilos comuns para o rodapé */
 footer {
     text-align: center; /* Centraliza o texto */
-    padding: 15px; /* Adiciona espaçamento interno */
+    padding: 15px 0px; /* Adiciona espaçamento interno */
     background-size: auto; /* Define o tamanho do background */
     color: white; /* Define a cor do texto */
     box-shadow: 0 -5px 10px rgba(0, 0, 0, 0.3); /* Adiciona sombra ao rodapé */
